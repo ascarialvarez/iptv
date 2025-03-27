@@ -1,2 +1,23 @@
-#EXTINF:-1 group-title="Moto" tvg-id="DAZN 1 1080" tvg-logo="https://i.postimg.cc/FzdPMFp5/tve4k.png" ,DAZN 1 1080
-plugin://script.module.horus?action=play&id=acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
+#EXTM3U
+#EXTINF:-1,Dazn 1 HD
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1,Dazn 1 FHD
+acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
+#EXTINF:-1,Dazn 2 HD
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1,Dazn 2 FHD
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1,Dazn F1 FHD
+acestream://751aa1f2429dfb9484b67a3ede00d859c6212994
+#EXTINF:-1,Dazn La Liga FHD MA
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1,Dazn La Liga 2 HD MA
+acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1,M.Liga de Campeones
+acestream://fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
+#EXTINF:-1,Dazn La Liga HD
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1,Liga Hypermotion TV
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1,La Liga Hypermotion 2 FHD
+acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
